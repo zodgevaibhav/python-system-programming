@@ -16,7 +16,7 @@
 		- What is MAC adress
 		- Change it using commandline
 		- Change it using python
-			- Subprocess Module
+			- Subprocess Module, regex,optparse 
 				- What is mode
 				- Program
 					-> import
@@ -26,4 +26,6 @@
 					-> take input as arguments
 					-> function
 					-> return value
+					-> regular expression search
+	- ARP Request Response
 					
