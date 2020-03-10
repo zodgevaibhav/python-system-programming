@@ -14,7 +14,7 @@
 3. Python Programs
 	- Change MAC adress
 		- What is MAC adress
-		- Change it using commandline
+		- Change it using commandline(ifconfig eth0 down; ifconfig eth0 hw ether ff:ff:ff:ff:ff:ff; ifconfig eth0 up)
 		- Change it using python
 			- Subprocess Module, regex,optparse 
 				- What is mode
@@ -27,5 +27,14 @@
 					-> function
 					-> return value
 					-> regular expression search
-	- ARP Request Response
+	- Scan network machines and show ip and MAC
+		- ARP, Broadcast
+		- View using commandline (netdiscover -r 10.0.2.1/24)
+		- View using python
+			- scapy.all as scapy
+			- list
+				- create list, print list, using for loop
+			- dictionary
+				- create, print 
+		
 					
