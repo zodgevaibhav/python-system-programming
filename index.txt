@@ -1,0 +1,29 @@
+
+
+1. Kali Linux
+	- Introduction
+	- Installation
+	- Setup nat network
+	- Terminal
+
+2. Python
+	- Basics of python
+	- Install pycharm
+	- Hellow world program (commandline as well as IDE)
+
+3. Python Programs
+	- Change MAC adress
+		- What is MAC adress
+		- Change it using commandline
+		- Change it using python
+			- Subprocess Module
+				- What is mode
+				- Program
+					-> import
+					-> subprocess.call("command",shell=True)
+					-> Hardcoded and parameterized program - VARIABLE
+					-> take input values
+					-> take input as arguments
+					-> function
+					-> return value
+					
